@@ -352,27 +352,5 @@
 4. 重新优化输出
 ```
 
-## 参考资源
-
-### 开源项目
-- [LangChain](https://github.com/langchain-ai/langchain) - Prompt模板和链式组合
-- [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - 最佳实践示例
-- [LlamaIndex](https://github.com/jerryjliu/llama_index) - 检索增强生成
-- [Awesome Prompt Engineering](https://github.com/prompt-engineering/awesome-prompt-engineering) - 资源合集
-
-### 学习资料
-- [Prompt Engineering Guide](https://www.promptingguide.ai/) - 系统性指南
-- [Claude Prompt Library](https://docs.anthropic.com/claude/prompt-library) - 高质量示例
-- [OpenAI Prompt Examples](https://platform.openai.com/examples) - 官方示例
-
-### 工具推荐
-- **测试工具**：PromptLayer, Weights & Biases
-- **管理工具**：Prompt版本控制、A/B测试
-- **优化工具**：自动Prompt优化、效果评估
-
----
-
-*最后更新：2025年8月8日*
-
 > 💡 **提示**：Prompt Engineering是一个实践性很强的技能，建议多实验、多测试，
 > 根据具体场景和需求选择合适的技术方法。记住，好的Prompt是迭代出来的！
